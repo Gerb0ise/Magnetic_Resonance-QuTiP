@@ -1,31 +1,10 @@
-# project-25-modelling-magnetic-resonance-using-qutip/Magnetic_Resonance-QuTiP
+# Project 25: Modelling Magnetic Resonance using QuTiP
 
-
-
-## Getting Started
-
-Download links:
-
-SSH clone URL: ssh://git@git.jetbrains.space/modellingmagneticresonance/project-25-modelling-magnetic-resonance-using-qutip/Magnetic_Resonance-QuTiP.git
-
-HTTPS clone URL: https://git.jetbrains.space/modellingmagneticresonance/project-25-modelling-magnetic-resonance-using-qutip/Magnetic_Resonance-QuTiP.git
-
-
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+## Overview
+This project was undertaken by a group of students of the Maastricht University in January 2022. A report was written and can be found as a pdf in this repository. Furthermore, two Jupyter notebooks were developed with the aim to provide an understanding of magnetic resonance. It provides a step by step explanation of relevant concepts with helpful visualisation plots and animations.
 
 ## Prerequisites
 
-What things you need to install the software and how to install them.
-
-```
-Examples
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a production system.
-
-## Resources
-
-Add links to external resources for this project, such as CI server, bug tracker, etc.
+The prerequisite.txt file provides the python dependencies necessary for the proper compilation of the code.\
+A quick and simple way of opening and interacting with the notebooks is to open them on binder through the following link:\
+link here
